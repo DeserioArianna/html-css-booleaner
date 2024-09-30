@@ -2,13 +2,14 @@
     width: 100%;
     height: 60px;
     background-image: url(../img/pattern.png);
-    background-color: #00ffff;
     background-size: contain;
+    background-color: rgba(0, 255, 255, 0.7);
 }
 
 .booleaner {
     height: 50px;
     width: 50px;
+    padding-top: 40px;
 }
 
 .color {
