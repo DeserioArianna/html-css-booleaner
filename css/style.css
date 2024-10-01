@@ -27,12 +27,18 @@ ul {
 table {
     width: 100%;
     margin: 0;
-    border-collapse: collapse
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.large-row {
+    width: 50%;
 }
 
 thead {
     background-color: #85cde4;
     text-align: center;
+    font-size: 15px;
 }
 
 .lorem {
